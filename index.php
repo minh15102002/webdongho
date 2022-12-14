@@ -43,7 +43,10 @@
         </div>
     </div>
     <div class="container">
-        <img src="./images/sale.png" alt="" width="200px">
+        <div style="display: flex;flex-direction: center;">
+        <!-- <img src="./images/sale.png" alt="" width="200px"> -->
+        <p style="font-size: 25px;font-weight: bold;font-family: 'Times New Roman', Times, serif;color: #222222;margin-bottom: 20px;">GIẢM GIÁ</p>
+        <img src="./images/flash.png" alt="" width="50px"></div>
     </div>
     <?php include('carouselsp.php') ?>
     <div class="container">

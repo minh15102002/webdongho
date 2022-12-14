@@ -66,11 +66,11 @@
                             <button type="submit" class="btn btn-default" style="width: 100%;">áp dụng</button>
                         </form>
                     </div>
-                    <img style="margin-top: 20px;" src="./images/dong-ho-nam-banner.webp" alt="" width="100%">
+                    <img style="margin-top: 20px;" src="./images/namnam.png" alt="" width="100%">
                 </div>
             </div>
             <div class="col-sm-8">
-                <!-- <img src="./images/banner4.webp" alt="" width="100%"> -->
+                <img style="margin-top: 20px;" src="./images/dong-ho-nam-banner.webp" alt="" width="100%"> 
                 <div class="product-area section" style="margin-top: -70px;">
                     <div class="container">
                         <p style="font-size: 25px;font-weight: bold;font-family: 'Times New Roman', Times, serif;color: #c05353;margin-bottom: 20px;">Đồng hồ nam</p>
